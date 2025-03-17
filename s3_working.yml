@@ -1,6 +1,6 @@
-# Description of what this change includes
-# Revision number
-# Date
+# Description of what this change includes- Syntax fixes in the Output, corrected template version, fixed bucketploicy syntax
+# Revision number #2
+# Date- 03/17/2025
 AWSTemplateFormatVersion: '2010-09-09'
 Resources:
   S3Bucket:
